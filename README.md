@@ -1,6 +1,6 @@
 ## Case study 3: Audio visualiser
 
-In this case study you will be completing a simple music visualisation
+In this case study you will be completing a simple music visualisation j
 program that contains three separate visualisations.
 
 To turn the sound into something that can be visualised p5.js provides
