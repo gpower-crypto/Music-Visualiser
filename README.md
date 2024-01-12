@@ -2,6 +2,8 @@
 
 Welcome to the Music Visualizer project, an imaginative application that utilizes the power of the p5.js library to create mesmerizing visual interpretations of music. This project offers unique extensions for experiencing music in visually compelling ways.
 
+## Check out the [Live Music Visualizer](https://gpower-crypto.github.io/Music-Visualiser/)
+
 ## Overview
 
 This project includes four captivating extensions:
